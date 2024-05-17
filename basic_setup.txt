@@ -1,0 +1,8 @@
+Para configurar el setup del proyecto AR:
+- Desactivar Auto Graphics API
+- Quitar Vulkan de Graphics APIs
+- Activar Dynamic Batching
+- Minimun API Level: Android 7.0
+- Scripting Backend: IL2CPP
+- Api Compatibility Level: NET Framework
+- Target Architectures: Solo ARM64
