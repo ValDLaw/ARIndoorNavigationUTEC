@@ -12,8 +12,98 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: ROOMS
   m_EditorClassIdentifier: 
-  m_GuidLow: 0
-  m_GuidHigh: 0
+  m_GuidLow: 5315483637974156397
+  m_GuidHigh: 14015976516732990104
   m_DataStore:
     m_Storage: []
-  m_Images: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4696512809559474097
+      m_GuidHigh: 18173981824929544094
+    m_SerializedTextureGuid:
+      m_GuidLow: 12997919637096640274
+      m_GuidHigh: 7514851940451630347
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: A801
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4710233651246496068
+      m_GuidHigh: 18272321549770949812
+    m_SerializedTextureGuid:
+      m_GuidLow: 12984526844237680089
+      m_GuidHigh: 4123582888298795240
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: A802
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4949118676705349208
+      m_GuidHigh: 4655277227721317270
+    m_SerializedTextureGuid:
+      m_GuidLow: 12987575759526062123
+      m_GuidHigh: 9763603932173656760
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: A803
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5292435703360252375
+      m_GuidHigh: 8123255477268203422
+    m_SerializedTextureGuid:
+      m_GuidLow: 2617677188605629161
+      m_GuidHigh: 513399125198333787
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: A804
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5479186292365665126
+      m_GuidHigh: 1869483041663304858
+    m_SerializedTextureGuid:
+      m_GuidLow: 14143035774349419176
+      m_GuidHigh: 4095675380079608282
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: M803
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5204043428106234466
+      m_GuidHigh: 2583409230108827796
+    m_SerializedTextureGuid:
+      m_GuidLow: 4929064108039625221
+      m_GuidHigh: 2188237135606920346
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: M804
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4780604472566388815
+      m_GuidHigh: 9212921429478399120
+    m_SerializedTextureGuid:
+      m_GuidLow: 10703195928431720669
+      m_GuidHigh: 9091722901140469113
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: escalera
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4968905522106429848
+      m_GuidHigh: 10361301251059914147
+    m_SerializedTextureGuid:
+      m_GuidLow: 13032093880231144279
+      m_GuidHigh: 11398577763795128489
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: bano
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4908157901206252992
+      m_GuidHigh: 12479406369212646279
+    m_SerializedTextureGuid:
+      m_GuidLow: 8393265228336375043
+      m_GuidHigh: 10309657061278484203
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ascensor
+    m_Texture: {fileID: 0}
